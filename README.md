@@ -1,12 +1,9 @@
-# Hi there 👋
-It's Md Naimur Rahman Durjoy from Kushtia, Bangladesh.
-
-### About me
-I am a Front-end web developer. I love to learn new technology. 
+## Hello there 👋 
+It's Md Naimur Rahman Durjoy from Kushtia, Bangladesh. I am a curious Front-end web developer. I like to learn new technology. I work mostly work following MERN Stack.  
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=durjoybd14)](https://github.com/anuraghazra/github-readme-stats)
 
-
+*laptop
 <!--
 **durjoybd14/durjoybd14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
