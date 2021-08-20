@@ -1,7 +1,8 @@
 ### Hi there 👋
+It's Md Naimur Rahman Durjoy from Kushtia, Bangladesh.
 
-About me
-I am a Front-end web developer from Kushtia, Bangladesh. I love to learn new technology. 
+### About me
+I am a Front-end web developer. I love to learn new technology. 
 
 <!--
 **durjoybd14/durjoybd14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
