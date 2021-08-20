@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[website]:(https://durjoy-bd.web.app/)
+[website]: (https://durjoy-bd.web.app/)
