@@ -1,6 +1,6 @@
-### 📖 Hello there, It's [Md Naimur Rahman Durjoy][website] from Kushtia, Bangladesh. <br/><br/>
-
 <img src="https://media-exp1.licdn.com/dms/image/C5616AQH4wjhw4Nvv9w/profile-displaybackgroundimage-shrink_200_800/0/1619778138330?e=1634774400&v=beta&t=MR9tWiUaROljiHMpFwmWJ3N1s2h9-y0nYPb31ljcb6k" width="100%" />
+
+### 📖 Hello there, It's [Md Naimur Rahman Durjoy][website] from Kushtia, Bangladesh. <br/><br/>
 
 - 🔭 I’m a Self-Motivated Front-End Web Developer.
 - 🌱 I’m Currently Learning Next JS & Typescript.
