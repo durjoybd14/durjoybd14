@@ -7,7 +7,7 @@
 - 👯 I’m Looking to Collaborate With Other Open Source Project.
 - 🥅 2021 Goals: Learn Typescript, Redux, Next JS  & React Native.
 - 💬 Ask Me About: Anything You Want to Know About Me.
-- 📫 Mail Me at nrd141913@gmail.com
+- 📫 Mail Me at naimurrahmandurjoy15@gmail.com
 - 📄 Check My [Resume][resume]
 - 🌐  You can see some of my projects on my [portfolio](https://durjoy-bd.web.app/projects) <br/><br/>
 
